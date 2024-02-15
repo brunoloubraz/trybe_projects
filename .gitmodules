@@ -1,3 +1,6 @@
 [submodule "Projetos/back-end/Projetos/back-end/sd-033-a-project-trybesmith"]
 	path = Projetos/back-end/Projetos/back-end/sd-033-a-project-trybesmith
 	url = https://github.com/tryber/sd-033-a-project-trybesmith
+[submodule "Projetos/back-end/Projetos/back-end/projeto_final/sd-033-a-trybe-futebol-clube"]
+	path = Projetos/back-end/Projetos/back-end/projeto_final/sd-033-a-trybe-futebol-clube
+	url = https://github.com/tryber/sd-033-a-trybe-futebol-clube
